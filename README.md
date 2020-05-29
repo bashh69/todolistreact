@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created for a tutorial guide on how to make a to-do list using React.
+
+It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
